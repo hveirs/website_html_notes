@@ -12,8 +12,10 @@ library(purrr)
 library(here)
 ```
 
+Query the Github REST api
+
 ```{r}
-repo_ex <- httr::GET()
+#repo_ex <- httr::GET()
 ```
 
 
